@@ -1,0 +1,6 @@
+Chandler,Bing,chanandler@yo.com,359585884
+Monica,Geller,monica@yo.com,56412365
+Rachel,Green,rach@yo.com,32145744
+Phoebe,Buffay,consuela@yo.com,665542312
+Joey,Tribbiani,kenaddams@yo.com,98875461
+Ross,Geller,dinosaurs@yo.com,66547889

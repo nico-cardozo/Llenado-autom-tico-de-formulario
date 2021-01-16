@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Llenado de formulario</title>
+</head>
+<body>
+<SCRIPT  language=JavaScript> 
+function limpiar() {
+    document.getElementById("nomb").value = "";
+    document.getElementById("ape").value = "";
+    document.getElementById("mail").value = "";
+    document.getElementById("fono").value = "";
+}
+
+</SCRIPT> 
+<FORM>
+<P>Nombre:    <INPUT type=text name=nombre id="nomb"> 
+<P>Apellido: <INPUT type=text name=apellido id = "ape">
+<P>Email:    <INPUT type=text name=mail id="mail">
+<P>Teléfono:    <INPUT type=text name=telefono id="fono">
+<INPUT onclick=limpiar() type="button" value="Cargar datos" id=carga>
+
+</FORM> 
+</body>
+</html>
